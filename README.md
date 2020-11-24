@@ -1,5 +1,5 @@
 
-# Welcome to my GitHub profile
+# Oh, Hey There! I'm Synerro
 
 ## About Me
 -I'm an aspiring software engineer
