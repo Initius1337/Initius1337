@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Synerro/Synerro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub profile
 
-Here are some ideas to get you started:
+## About Me
+-I'm an aspiring software engineer
+-Working in Business, Entrepreneurship as a minor
+-Galaxy Host Engineer
+-Learning more about Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+- Discord: `ini#1337`
+- Email: 
+  - **Personal Site:** `initius.cool`
