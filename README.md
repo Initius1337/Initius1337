@@ -9,5 +9,5 @@
 
 ## Contact Me
 - Discord: `ini#1337`
-- Email: 
+- Email: ini@initius.cool
   - **Personal Site:** `initius.cool`
