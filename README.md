@@ -1,11 +1,8 @@
 
-# Oh, Hey There! I'm Synerro
+# Oh, Hey There! I'm Aydan
 
 ## About Me
--I'm an aspiring software engineer
--Working in Business, Entrepreneurship as a minor
--Galaxy Host Engineer
--Learning more about Cybersecurity
+I'm a software engineer, and backend developer
 
 ## Contact Me
 - Discord: `ini#1337`
