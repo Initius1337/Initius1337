@@ -1,9 +1,4 @@
-
-# Oh, Hey There! I'm Aydan
-
-## About Me
-I'm a software engineer, and backend developer
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Synerro" alt="Synerro" /> </p>
 ## Contact Me
 - Discord: `ini#1337`
 - Email: ini@initius.cool
