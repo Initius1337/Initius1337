@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Synerro" alt="Synerro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Synerro" alt="Initius" /> </p>
 
 ## Contact Me
 - Discord: `ini#1337`
@@ -6,4 +6,4 @@
   - **Personal Site:** `initius.cool`
 
 
-![](https://github-readme-stats.vercel.app/api?username=Synerro&amp;show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Initius1337&amp;show_icons=true&theme=radical)
