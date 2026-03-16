@@ -10,7 +10,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)
-![API](https://img.shields.io/badge/API-black?style=for-the-badge&logo=postman)
 
 ---
 
@@ -31,6 +30,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=cloudflare)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=fastapi)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Initius1337&theme=tokyonight)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Initius1337&theme=tokyo-night)
