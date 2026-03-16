@@ -26,7 +26,7 @@
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=visualstudio)
+![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=cloudflare)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
