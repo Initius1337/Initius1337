@@ -10,6 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)
+![API](https://img.shields.io/badge/API-black?style=for-the-badge&logo=postman)
 
 ---
 
