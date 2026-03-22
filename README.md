@@ -7,8 +7,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 ![LUA](https://img.shields.io/badge/LUA-black?style=for-the-badge&logo=lua)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)
 
 ---
