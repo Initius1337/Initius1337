@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dylan
+# 👋 Hi, I'm Initius
 
 19-year-old student from the U.S. working as a front-end and JavaScript developer building e-commerce websites and digital platforms.
 
